@@ -5,6 +5,7 @@ Using the default ruby delegate library, this gem is used to wrap the class _AND
 
 You may want to use it like this:
 
+```ruby
     require "delegate/class"
 
     class A
@@ -24,5 +25,6 @@ You may want to use it like this:
     end
     
     
+```
 
 Hope you like it (:
