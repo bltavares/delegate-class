@@ -27,4 +27,16 @@ You may want to use it like this:
     
 ```
 
+## Instalation
+
+It's is simple.
+
+Add to your gem file
+
+    gem "delegate/class"
+
+And run
+
+    bundle install
+
 Hope you like it (:
