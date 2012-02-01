@@ -66,6 +66,8 @@ Now, you are delegating the instance and class methods to the wrapped class/obje
 
 ## Instalation
 
+[![Build Status](https://secure.travis-ci.org/bltavares/delegate-class.png)](http://travis-ci.org/bltavares/delegate-class)
+
 It's is simple.
 
 Add to your gem file
