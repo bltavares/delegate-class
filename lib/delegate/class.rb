@@ -1,4 +1,5 @@
 require "delegate"
+require "delegate/class/kernel"
 
 module Delegate
   module Class
