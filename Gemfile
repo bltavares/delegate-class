@@ -4,7 +4,7 @@ source "http://rubygems.org"
 gemspec
 
 group :development, :test do
-  gem "minitest", :platforms => [:ruby_18, :jruby]
+  gem "minitest"
   gem 'libnotify'
   gem "guard-minitest"
   gem "rake"
